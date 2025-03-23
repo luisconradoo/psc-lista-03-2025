@@ -19,7 +19,7 @@ programa {
       menor = num1
       se(num2 < num1)
       {menor = num2}
-		  se(num3 < menor)
+      se(num3 < menor)
       {menor = num3}
 
       media = (num1+num2+num3)/3
